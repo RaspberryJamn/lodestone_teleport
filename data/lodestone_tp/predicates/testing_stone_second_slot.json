@@ -1,0 +1,9 @@
+{
+  "condition": "minecraft:match_tool",
+  "predicate": {
+    "items": [
+      "minecraft:stone"
+    ],
+    "nbt": "{Slot:1b}"
+  }
+}

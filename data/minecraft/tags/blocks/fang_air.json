@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+	"minecraft:air",
+	"minecraft:grass",
+	"#minecraft:flowers",
+	"#minecraft:saplings",
+	"#minecraft:pressure_plates",
+	"#minecraft:buttons",
+	"minecraft:lever",
+	"minecraft:tripwire_hook",
+	"minecraft:redstone_wire"
+  ]
+}
