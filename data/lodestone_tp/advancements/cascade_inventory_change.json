@@ -5,6 +5,6 @@
     }
   },
   "rewards": {
-    "function": "lodestone_tp:trigger_on_tick_advancement"
+    "function": "lodestone_tp:advancement/on_delay_inventory_change"
   }
 }

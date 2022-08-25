@@ -5,6 +5,6 @@
     }
   },
   "rewards": {
-    "function": "lodestone_tp:trigger_on_inventory_change"
+    "function": "lodestone_tp:advancement/on_inventory_change"
   }
 }
