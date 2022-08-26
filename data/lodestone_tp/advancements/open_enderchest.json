@@ -14,6 +14,6 @@
     }
   },
   "rewards": {
-    "function": "lodestone_tp:trigger_on_open_enderchest"
+    "function": "lodestone_tp:advancement/on_open_enderchest"
   }
 }
