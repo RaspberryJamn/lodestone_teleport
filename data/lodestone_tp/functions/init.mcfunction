@@ -1,7 +1,2 @@
-scoreboard objectives remove raspn_oblivion_animation
-scoreboard objectives remove raspn_general
-scoreboard objectives remove raspn_death
-
-scoreboard objectives add raspn_oblivion_animation dummy
-scoreboard objectives add raspn_general dummy
-scoreboard objectives add raspn_death deathCount
+function lodestone_tp:uninstall
+function lodestone_tp:install
