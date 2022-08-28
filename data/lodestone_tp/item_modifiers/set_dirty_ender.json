@@ -1,0 +1,4 @@
+{
+  "function": "minecraft:set_nbt",
+  "tag": "{bag:{tag:{raspn_clean:0b}}}"
+}
