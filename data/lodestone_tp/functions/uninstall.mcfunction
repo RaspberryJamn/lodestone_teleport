@@ -6,3 +6,5 @@ data remove storage minecraft:raspn template
 scoreboard objectives remove raspn_oblivion_animation
 scoreboard objectives remove raspn_general
 scoreboard objectives remove raspn_death
+scoreboard objectives remove raspn_bag_id
+scoreboard objectives remove raspn_bag_clean

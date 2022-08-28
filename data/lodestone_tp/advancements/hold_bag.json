@@ -13,7 +13,7 @@
                   "items": [
                     "minecraft:flower_banner_pattern"
                   ],
-                  "nbt": "{Tags:[\"rspb_bag\"]}"
+                  "nbt": "{raspn_lbag:1b}"
                 }
               }
             }
